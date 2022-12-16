@@ -1,0 +1,29 @@
+@media  screen and (max-width: 320px){
+    .right{display: none;}
+    .img1{padding-left: 0;background-position: center;background-size: cover;}
+    .img1 h1{padding-top: 0;font-size: 0;}
+    .img1-p3{margin-left: 60px;}
+    .img1-p2{margin-left: 40px;}
+    .img1-p{margin-left: 50px;}
+    .nav1{padding: 50px;margin-top: 0;}
+    .nav2{display: block;margin-top: 0;padding-bottom: 50px;}
+    .icon111{width: 100%;}
+    .we{display: block;padding: 20px;margin-top: 0;}
+    .desigin{font-size: 20px;}
+    .mard{display: block;padding: 20px;}
+    .tver{display: block;}
+    .imgner{display: block;}
+    .imgner-2{display: block;}
+    .procent{display: block;}
+    .basic{display: block;}
+    .john{width: 100%;margin: 20px 0;}
+    .anja{width: 100%;margin: 20px 0;}
+    .mike{width: 100%;margin: 20px 0;}
+    .dan{width: 100%;margin: 20px 0;}
+    .tver{padding: 100px 0;margin-top: 100px;}
+    .imgner div{width: 80%;}
+    .imgner-2 div{width: 80%;}
+    
+  
+    
+}

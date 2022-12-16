@@ -1,0 +1,470 @@
+*{
+	margin:0;
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+.nav{
+	display:flex;
+	justify-content:
+	space-between;
+	box-shadow: 4px 10px 31px -5px rgba(100,100,100,0.75);
+	-webkit-box-shadow: 4px 10px 31px -5px rgba(100,100,100,0.75);
+	-moz-box-shadow: 4px 10px 31px -5px rgba(100,100,100,0.75);
+
+
+
+}
+.right{
+
+}
+.nav ul li {
+	list-style:none;
+	padding:15px
+}
+
+.right-ul{
+		display:flex;
+		
+}
+.right ul li:hover{
+	background:#ccc;
+}
+.left p{
+	padding:15px;
+}
+.left p:hover{
+	background:#ccc;
+}
+.img1{
+	background:url(https://www.w3schools.com/w3images/mac.jpg);
+	padding-left:50px;
+}
+.img1 h1{
+	color:white;
+	font-size:64px;
+	padding-top:300px
+}
+.img1-p{
+	font-size:18px;
+	color:#fff;
+	padding-top:50px;
+}
+.img1-p2{
+	margin-top:25px;
+	padding:20px 10px;
+	color:#fff;
+	background:rgba(255,255,255,0.7);
+	width:240px;
+	text-align:center;
+}
+.img1-p2:hover{
+	background:#ccc
+}
+.img1-p3 {
+	color:#ccc;
+	margin-top:200px;
+	padding-bottom:50px;
+}
+.nav1{
+	text-align:center;
+	margin-top:150px;
+}
+.about{
+	font-size:15px;
+}
+
+.key{
+	font-size:18px;
+}
+	
+
+.icon2{
+	font-size:50px;
+	
+}
+.icon111{
+	text-align:center;
+	width:23%;
+}
+.nav2{
+	display:flex;justify-content:space-around;margin-top:50px
+
+}
+.desigin{
+
+	
+	
+}
+.works{
+	background:black;
+	color:white;
+	width:180px;
+	padding:10px;
+	text-align:center
+
+}
+.works:hover{
+	background:#ccc;
+	width:180px;
+	color:black;
+}
+.lorem{
+	margin:20px 0px;
+}
+.icons{
+	font-size:50px;
+}
+.icons2{
+	display:flex;justify-content;
+}
+.icon111 p {
+	margin-top:30px;
+}
+.we{
+	display:flex;
+	justify-content:space-between;
+	background:#f1f1f1;
+	padding:100px;
+	margin-top:100px
+	
+}
+.fa-th{margin-right:10px}
+.th{
+	padding:4px;
+}
+.team{
+	padding-top:150px;
+}
+.team{
+	text-align:center;
+}
+.team p {
+	font-size:20px;
+	padding-top:20px;
+}
+.mard{
+	font-family: "Raleway", sans-serif !important;
+	display:flex;justify-content:space-around;
+	padding-top:70px;
+	
+}
+.john{
+	box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+	width:23%;
+}
+.john-img{
+	width:100%;
+	
+}
+.john-text{
+	padding:20px;
+}
+
+
+img{
+	width:100%;
+	border-radius: 10px;
+}
+.anja{
+	box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+	width:23%;
+}
+.mike{
+	box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+	width:23%;
+}
+.dan{
+	box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+	width:23%;
+}
+.anja-text{
+	padding:20px;
+}
+.mike-text{
+	padding:20px;
+}
+.dan-text{
+	padding:20px;
+}
+.john-web{
+	padding-top:10px;
+	padding-bottom:10px;
+}
+.anja-web{
+	padding-top:10px;
+	padding-bottom:10px;
+}
+.mike-web{
+	padding-top:10px;
+	padding-bottom:10px;
+}
+.dan-web{
+	padding-top:10px;
+	padding-bottom:10px;
+}
+.contact{
+	text-align:center;
+	padding-top:20px;
+	font-size:17px;
+	background:#f1f1f1;
+	padding:10px;
+	margin-top:20px;
+}
+.contact:hover{
+	background:#ccc;
+	padding:10px;
+}
+.tver{
+	display:flex;justify-content:space-around;
+	margin-top:170px;
+	padding:70px 0px;
+	background:#616161;
+	text-align:center;
+	color:white;
+}
+.14{
+	width:23%;
+}
+.55{
+	width:23%;
+}
+.89{
+	width:23%;
+}
+.150{
+	width:23%;
+}
+.text-1{
+	text-align:center;
+	padding-top:100px;
+
+}
+.text-1 p{
+	font-size:24px;
+	padding-top:20px;
+}
+.imgner{
+	width:100%;
+	display:flex;justify-content:space-around;
+	padding-top:100px;
+}
+.imgner div{
+	width:24%;
+}
+.imgner-2{
+	width:100%;
+	display:flex;justify-content:space-around;
+	padding-top:20px;
+}
+.imgner-2 div{
+	width:24%;
+}
+.procent{
+	background:#f1f1f1;
+	margin-top:200px;
+	display:flex;justify-content:space-between;
+	width:100%;
+	padding:50px 0px;
+}
+
+
+.text-1p{
+	padding-top:20px;
+	padding-bottom:20px;
+}
+.ii{
+	background:black;
+	width:100%;
+}
+.page{
+	background:#ccc;
+	width:100%;
+	margin:20px 0px;
+
+}
+.page p{
+	background:#777;
+	width:90%;
+	text-align:center;
+	color:white
+}
+.uu{
+	background:#ccc;
+	width:100%;
+	margin:20px 0px;
+}
+.uu p {
+	text-align:center;
+	background:#777;
+	width:85%;
+	color:white;
+}
+.yy{
+	background:#ccc;
+	width:100%;
+	margin:20px 0px;
+}
+.yy p {
+	text-align:center;
+	background:#777;
+	width:75%;
+	color:white;
+}
+	
+
+.procent-r{
+	font-size:20px;
+	width:50%;
+}
+
+.dolar-1{
+	background:gray;
+	margin-top:100px;
+	display:flex;
+	justify-content:center;
+}
+.dolar{
+	background:gray;
+	padding-bottom:100px;
+}
+.text-d{
+	text-align:center;
+	padding-top:150px;
+	color:white;
+}
+.text-d p {
+	font-size:18px;
+}
+.text-d p{
+	padding-top:25px;
+}
+ul{
+	list-style:none;
+	padding-left:0
+}
+.basic{
+	display:flex;justify-content:space-around;
+	width:80%;
+	align-items:center
+}
+.basic ul{
+	width:30%;
+	background:white
+}
+.basic ul li{
+	text-align:center;
+	padding:15px;
+	border-bottom:1px solid #ccc
+}
+.bl{
+	background:#000;
+	padding:20px 0!important;
+	color:white
+}
+.redb{
+	background:red;
+	padding:30px 0!important;
+	color:white
+}
+.sigin{
+	background:#f1f1f1;
+}
+.sigin button{
+	padding:13px 20px;
+	background:black;
+	color:white;
+	border:none;
+}
+.sigin button:hover{
+	background:#ccc;
+	color:black;
+	border:none;
+}
+.verch{
+	background:#f1f1f1;
+	padding-top:200px;
+}
+.verch-text{
+	text-align:center;
+}
+.verch-text p {
+	padding-top:25px;
+	font-size:18px;	
+}
+.icon-text {
+	
+	
+}
+.input{
+	padding:20px;
+}
+
+.tg11{
+	background:black;
+	margin-top:15px;
+	color:white;
+	padding:13px;	
+	width:180px;
+	border:none;
+}
+.tg11:hover{
+	background:#ccc;
+	color:black;
+	width:180px;
+	border:none;
+}
+.icons{
+	font-size:35px;
+	padding:20px;
+}
+.iconn{
+	display:flex;align-items:center;
+}
+.iconnp{
+	width:70px;
+}
+.inputs{
+	width:100%;
+	align-items:center;
+	padding:12px;
+	margin-top:15px;
+}
+.map{
+	margin-top:45px;
+	padding:0px 16px;
+	padding-bottom:120px;
+}
+.vsyo{
+	text-align:center;
+	background:black;
+	color:white;
+;
+}
+.top{
+	width:140px;
+	background:#f1f1f1;
+	color:black;
+	padding:15px 0px;
+}
+.top1{
+	display:flex;
+	justify-content:center;
+}
+.top:hover{
+	background:#ccc;
+}
+.mar{
+	padding:65px 0px;
+}
+.iconf{
+	padding-top:20px;
+	padding-bottom:20px;
+	font-size:30px;
+}
+.guyna{
+	color:white;
+}
+.marg{
+	margin-right:10px;
+}
